@@ -4,5 +4,3 @@ print("Hello, everybody;")
 print("HELLO;")
 print("опхберхй!;")
 print("glad to see you!;")
-print("hihihihi;")!!!!!!
-!!!!!!!!!!
